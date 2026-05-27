@@ -1,6 +1,6 @@
 # Command Center
 
-**Version 1.2.6.2**  
+**Version 1.3.0.0**  
 A GUI-based workflow hub built with Python + PySide6 for Windows.
 
 https://github.com/UndeadWolf23/CommandCenter/releases/tag/CommandCenter
@@ -37,13 +37,28 @@ Run `CommandCenter.exe`. No installation required — all dependencies and asset
 
 ---
 
-## What's New in 1.2.6.2
+## What's New in 1.3.0.0
 
-### Paste as Plain Text — `Ctrl+Shift+V`
-A global system-wide hotkey that works in **any application**, not just Command Center. When you press `Ctrl+Shift+V`, the current clipboard contents are stripped of all formatting (HTML, rich text, etc.) and pasted as plain text. Useful for pasting into email composers, Word documents, or any app that normally carries over unwanted formatting.
+### Auto-Update System
+Command Center now connects to GitHub Releases to check for and install updates automatically. The version number in the bottom-right of the footer bar is now a **clickable button** that opens the Version Info & Updates dialog.
 
-### New Logo
-The app icon and title bar logo have been updated with a redesigned logo
+### Version Info & Updates Dialog
+Click the version label (e.g. `v1.3.0.0`) in the footer to open this dialog. It displays the full release notes fetched from GitHub and provides a **Check for Updates** button. If a newer version is available, an **Update Now** button appears — clicking it closes the app, downloads and replaces the executable files, and relaunches Command Center automatically. Your data (nodes, settings, notebooks, plugins) is never touched.
 
-### Animated Startup Screen
-The optional splash screen that appears on launch now plays a custom animation.
+### Auto-Check on Startup
+Enable **Auto-check for updates on startup** in the Version Info dialog to have Command Center silently check GitHub Releases 2–3 seconds after every launch. If an update is found, a prompt appears in-app.
+
+### Updater
+A lightweight companion process `updater.exe` handles all update operations independently. It downloads the new `CommandCenter.exe` and `updater.exe` from GitHub Releases, waits for the main app to exit, replaces the files on disk, and relaunches the app automatically.
+
+### Installer
+New users can use `installer.exe` for first-time setup. It downloads `CommandCenter.exe`, `updater.exe`, and the README to a folder you choose (default: your Desktop), and can optionally create a desktop shortcut.
+
+---
+
+## Previous Versions
+
+### 1.2.6.x
+- **Paste as Plain Text (`Ctrl+Shift+V`)** — global system-wide hotkey that strips formatting before pasting, works in any application
+- **New Logo** — redesigned app icon and title bar logo
+- **Animated Startup Screen** — custom sprite animation on the splash screen
