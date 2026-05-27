@@ -1,0 +1,11 @@
+{
+  "id": "cc_autohotkey",
+  "uuid": "3b2d7723-c72f-4a22-a8aa-b067e93cbce1",
+  "name": "AutoHotkey 2.0 Bridge",
+  "version": "1.0.2.0",
+  "description": "Manage AutoHotkey 2.0 scripts from Command Center. Detect hotkey conflicts, launch scripts as background processes, and keep your AHK macros in sync with your CC workflow.",
+  "author": "CommandCenter",
+  "min_app_version": "1.0.0.0",
+  "entry": "plugin.py",
+  "permissions": ["ui", "hotkeys", "settings", "files", "timers"]
+}

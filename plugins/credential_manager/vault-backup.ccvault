@@ -1,0 +1,195 @@
+{
+  "version": 2,
+  "salt": "s8GX1A590OE5zYnSntnSXA==",
+  "iterations": 600000,
+  "count": 17,
+  "entries": [
+    {
+      "id": "1c428dece8551fd3a608b8b9eab6ca78",
+      "title": "Mybankonit",
+      "username": "",
+      "category": "",
+      "password_enc": "r/jqaDUbBgDu8c4hkagpKkuGqlAsK2C8Tc/cnyYbkvNTwuUhefxPs0hS0O8=",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:47:03Z",
+      "updated_at": "2026-05-21T16:47:03Z"
+    },
+    {
+      "id": "7ecb11504130679acbf5e0232932352b",
+      "title": "safesend",
+      "username": "",
+      "category": "",
+      "password_enc": "QgQcBgX0Y7Ahq57gpskVOgM63Ev38LGY/gok5tZkZpaCBqWDjTRvdqdAlZE=",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:47:27Z",
+      "updated_at": "2026-05-21T16:47:27Z"
+    },
+    {
+      "id": "00571f3dc764fcc1c516433f5c000b66",
+      "title": "ScreenConnect",
+      "username": "",
+      "category": "",
+      "password_enc": "5Iqj2xD1aS+MNEo9PqITACE7jUHlVTktEBaur3F05pd3BfzW4dNmdXG0A/o=",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:47:43Z",
+      "updated_at": "2026-05-21T16:47:43Z"
+    },
+    {
+      "id": "2043c1c044cfc64a5792611fcb3d6785",
+      "title": "Zoom",
+      "username": "",
+      "category": "",
+      "password_enc": "NwZ6ci8GfIA5deWtVyNG6jCGrKNA3p7KbCjzVDzwctE=",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:47:58Z",
+      "updated_at": "2026-05-21T16:47:58Z"
+    },
+    {
+      "id": "c5ddadc4a84d815123bb08802e0a4d8d",
+      "title": "DUO Admin",
+      "username": "",
+      "category": "",
+      "password_enc": "YoWqYqn/agEKfd6Fkb2e87ZldrSUdKvCFwpNZ3BsSxxbP1o74PT+tmFmcuU=",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:48:13Z",
+      "updated_at": "2026-05-21T16:48:13Z"
+    },
+    {
+      "id": "46d478118bfb770eaa350e71db304fb4",
+      "title": "projectnexus",
+      "username": "projectnexusinternal@gmail.com",
+      "category": "",
+      "password_enc": "yjnq5cXii1oYMMv4lWgfNB/LVL+Bk4Go0Sb6mjamiNUlW1V5Vf6f2Q==",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:48:46Z",
+      "updated_at": "2026-05-21T16:48:46Z"
+    },
+    {
+      "id": "993400f8c0fa65e9a37ebcf54933cf6c",
+      "title": "rose state",
+      "username": "caleb-chaney@raider.rose.edu",
+      "category": "",
+      "password_enc": "ZIdE671hQ+hstw7gDwlOO+qAL3YPliNxeq0tI9PxPdPfuVFUxxQxfy0P3Q==",
+      "expires": null,
+      "note": "ID: CC0383038",
+      "created_at": "2026-05-21T16:49:27Z",
+      "updated_at": "2026-05-21T16:49:27Z"
+    },
+    {
+      "id": "1b5c1eb0258d7134662c995043188e11",
+      "title": "Firewall",
+      "username": "helpdesk",
+      "category": "",
+      "password_enc": "q0LwjcW5ynKMCVtKDxf4juD2Jsqc526SnWTppL7QH/Sbhia3y00=",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:49:58Z",
+      "updated_at": "2026-05-21T16:49:58Z"
+    },
+    {
+      "id": "18a35e47656c554f334e91b4f529a56d",
+      "title": "Adobe",
+      "username": "boitmanaged@outlook.com",
+      "category": "",
+      "password_enc": "v7QVnB/ov6XdU7Kb8Fsp2G76yJEjeIKwsXZYpPaQgNvIvV2c",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:50:24Z",
+      "updated_at": "2026-05-21T16:50:49Z"
+    },
+    {
+      "id": "d7d3d5b7154d68b8e8be8776d4017fca",
+      "title": "Foxit",
+      "username": "caleb.chaney@bankonitusa.com",
+      "category": "",
+      "password_enc": "TXXcdAEi0pBB1V66POa+Hng71S8XDWf1JBRXPxJGAJW+0JVs7Au3zA==",
+      "expires": "2026-08-19",
+      "note": "",
+      "created_at": "2026-05-21T16:50:44Z",
+      "updated_at": "2026-05-21T16:50:44Z"
+    },
+    {
+      "id": "7471eeed764bd1c0383a11738dd86bbc",
+      "title": "Sentinel One admin portal",
+      "username": "",
+      "category": "",
+      "password_enc": "jONY4vDuPOYRHECJAVnSbAH4KiBiv3AfGgYkva8noD6gD721JyKQwcPmSA==",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:51:26Z",
+      "updated_at": "2026-05-21T16:51:26Z"
+    },
+    {
+      "id": "a3ee58ed3b571ae4cb4c0ab964a3a7db",
+      "title": "Sentinel One partner/customer portal",
+      "username": "",
+      "category": "",
+      "password_enc": "oEpyz7JQNiYqmV+ouYVIC8W1D4LX0e4bLkUxIr+6WPCQsq7uvBUI+m7aMA==",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:51:42Z",
+      "updated_at": "2026-05-21T16:51:46Z"
+    },
+    {
+      "id": "3f54dacf7758a591cb8931fd2d5c7a8c",
+      "title": "NAVANTA EMAIL",
+      "username": "caleb.chaney@navanta.com",
+      "category": "",
+      "password_enc": "1eJgEvHLCd6d4zcdXmxpmqbBpkmLSO2uAMRrEUlIPjgUlo7N08xmpw9wTg==",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:52:12Z",
+      "updated_at": "2026-05-21T16:52:12Z"
+    },
+    {
+      "id": "437f4321f60de4c7fabc6e555894ce85",
+      "title": "ESET",
+      "username": "cchaney",
+      "category": "",
+      "password_enc": "HV9DwUPz03+yEspbzlpkykkg35XSfZuzOnFKte86UyMCV1WjstMow9s0+Q==",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:52:40Z",
+      "updated_at": "2026-05-21T16:52:40Z"
+    },
+    {
+      "id": "62436e3042e7e362a29f81e74255d84c",
+      "title": "FortiAnalyzer",
+      "username": "Admin",
+      "category": "",
+      "password_enc": "Qqhm5Fnw4xf3BjM8uPVbj2JRVUoZvVDsHDKL9lv78HD7j2lSeA==",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:52:56Z",
+      "updated_at": "2026-05-21T16:52:56Z"
+    },
+    {
+      "id": "dbd94e8585d47f233c53129698fe9bd8",
+      "title": "Knowbe4",
+      "username": "",
+      "category": "",
+      "password_enc": "SObmTgr0KYkSsjmZgd76CHyN7Qy1qhN+LM6GxoAThmoFQRbQYp3TrCUd7W2aBkWq/kGmDLpV95TqhQ==",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:53:23Z",
+      "updated_at": "2026-05-21T16:53:23Z"
+    },
+    {
+      "id": "0e86668e3b914f31c2dc37622f6c0eec",
+      "title": "iDRAC",
+      "username": "root",
+      "category": "admin, switch, idrac, noway",
+      "password_enc": "JERb6t/P9UHUja2IzkPYjeVAAsPHUnkBgN/mIjYOnSJ1pHIJ",
+      "expires": null,
+      "note": "",
+      "created_at": "2026-05-21T16:53:40Z",
+      "updated_at": "2026-05-21T16:54:34Z"
+    }
+  ]
+}

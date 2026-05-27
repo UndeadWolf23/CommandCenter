@@ -1,0 +1,17 @@
+{
+  "id": "cysec",
+  "uuid": "930769a6-481b-442d-93c8-c5bf0b4ca3ef",
+  "name": "CySec Tools",
+  "version": "1.0.1.0",
+  "description": "Cybersecurity team tools: IVA spreadsheet formatter, quick path access, and IVA response search.",
+  "author": "CommandCenter",
+  "min_app_version": "1.2.0",
+  "entry": "plugin.py",
+  "permissions": [
+    "ui",
+    "files",
+    "timers",
+    "settings",
+    "clipboard"
+  ]
+}
