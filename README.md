@@ -1,3 +1,9 @@
+## v1.3.0.6 — June 1, 2026
+
+Fixed a bug with the usage of plugin hotkeys when the command center window is out of focus.
+
+---
+
 # Command Center
 
 **Version 1.3.0.0**  
