@@ -1,3 +1,15 @@
+## v1.4.0.0 — June 2, 2026
+
+Introducing experimental new features such as: Profiles, Levels & XP, Pets, and Achievements.
+
+New improvements to the Notebook tool such as: Find,  Find & Replace (similar to Notepad++), and List Comparison tools. Additionally, a settings page has been introduced for the notebook to support a few new options and future options. Users can now set a default paste size for images to avoid having to set a size on every paste, as well as a few other small options.
+
+The folder system has been overhauled to include support for nested folders and allowance for nodes of varying size inside folders. Nested folder navigation can be tricky. This system will continue to be improved as time goes on.
+
+This version also implements a few small bug fixes and optimizations, although with the addition of many new features, please remain patient and send constructive feedback so I can continue to improve the tool.
+
+---
+
 ## v1.3.0.6 — June 1, 2026
 
 Fixed a bug with the usage of plugin hotkeys when the command center window is out of focus.
