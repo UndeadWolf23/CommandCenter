@@ -1,3 +1,9 @@
+## v1.4.0.1 — June 3, 2026
+
+Added animations for Panda, Axolotl, and Dragon pets.
+
+---
+
 ## v1.4.0.0 — June 2, 2026
 
 Introducing experimental new features such as: Profiles, Levels & XP, Pets, and Achievements.
