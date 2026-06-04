@@ -1,3 +1,11 @@
+## v1.4.1.0 — June 4, 2026
+
+added a little secret...
+
+check out the profile page for a fun challenge and a secret reward
+
+---
+
 ## v1.4.0.1 — June 3, 2026
 
 Added animations for Panda, Axolotl, and Dragon pets.
