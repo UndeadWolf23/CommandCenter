@@ -1,3 +1,11 @@
+## v1.4.1.1 — June 5, 2026
+
+added new formatting buttons to the notebook tool: indent, change case, and sort notes by.
+
+squashed a few small bugs.
+
+---
+
 ## v1.4.1.0 — June 4, 2026
 
 added a little secret...
