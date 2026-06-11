@@ -1,3 +1,17 @@
+## v1.4.2.0 — June 11, 2026
+
+Upgraded the footer in the main window to be more efficient and clean. Plugins and Windows Tools now sort into dynamic trays that expand when you hover over them. This allows for more real estate as the app continues to grow and as users install more plugins. 
+
+Added several new Windows Tools to help users navigate windows very quickly and efficiently.
+
+Added a Level Up animation that plays when users level up their profiles. 
+
+The profile and customization systems are still fresh and experimental - please feel free to send me any feedback on changes or additions to these systems you'd like to see. You can use the feedback button in the bottom right to queue up a feedback email to me.
+
+Thank you
+
+---
+
 ## v1.4.1.1 — June 5, 2026
 
 added new formatting buttons to the notebook tool: indent, change case, and sort notes by.
