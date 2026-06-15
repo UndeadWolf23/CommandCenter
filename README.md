@@ -1,3 +1,9 @@
+## v1.4.2.3 — June 15, 2026
+
+bug fixes related to new installer and separation of assets
+
+---
+
 ## v1.4.2.2 — June 15, 2026
 
 Separation of assets from the main executable to a separate asset cache. This provides for much faster installs and updates to the app. Changes were made to the App, Installer, Uninstaller, and Updater executables.
