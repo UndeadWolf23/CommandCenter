@@ -1,3 +1,15 @@
+## v1.4.2.2 — June 15, 2026
+
+Separation of assets from the main executable to a separate asset cache. This provides for much faster installs and updates to the app. Changes were made to the App, Installer, Uninstaller, and Updater executables.
+
+---
+
+## v1.4.2.1 — June 11, 2026
+
+bug fix for level up animation - added support for animation queue
+
+---
+
 ## v1.4.2.0 — June 11, 2026
 
 Upgraded the footer in the main window to be more efficient and clean. Plugins and Windows Tools now sort into dynamic trays that expand when you hover over them. This allows for more real estate as the app continues to grow and as users install more plugins. 
