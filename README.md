@@ -1,3 +1,9 @@
+## v1.5.0.1 — June 22, 2026
+
+bug fixes related to gems and the gem menu
+
+---
+
 ## v1.5.0.0 — June 22, 2026
 
 Introducing Gems
