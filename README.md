@@ -1,3 +1,25 @@
+## v1.5.0.0 — June 22, 2026
+
+Introducing Gems
+--------------------------------
+version 1.5.0.0 brings a complete Gem system to the profile menu. As time passes you will unlock gem chests of increasing rarity. Opening these chests give you gems that you can equip in the new Gem Menu. Gems modify the XP and pet systems allowing users to strategically equip gems to maximize XP gain. Gems can be leveled up with Gem Dust to provide stronger effects. Gem also have a Star Rank that can be increased by merging in extra copies of the same gem. Gems can also be converted to Gem Dust by salvaging unwanted gems. You can configure multiple gem loadouts to quickly switch between your favorite gem sets.
+
+Check out the Gem Codex in the Gem Menu for a full list of all 48 Gems currently in the app. As you discover new gems they will brighten in the codex.
+
+Gems are tradeable! Have a Legendary or Mythic gem that you don't need? No problem. export the encrypted gem file and send it to a buddy. They will always be able to see your name on the gem. Once you export a gem, it can no longer be imported or used again on your profile to prevent duplication and reuse.
+
+--------------------------------
+Squashed more bugs in the notebook and profile menus
+--------------------------------
+
+what's next?
+
+currently in the works is a full To Do List and activity tracker that will combine with the reminders tool and the time tracker tool to create a full workflow tracking system.
+
+Also in the works is Notebook Templates to help users quickly create a fresh templated note reducing time spent on repeated actions and note styles.
+
+---
+
 ## v1.4.2.3 — June 15, 2026
 
 bug fixes related to new installer and separation of assets
