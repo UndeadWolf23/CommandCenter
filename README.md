@@ -1,3 +1,9 @@
+## v1.5.0.4 — June 24, 2026
+
+bug fixes and tweaks
+
+---
+
 ## v1.5.0.2 — June 23, 2026
 
 Bug fixes
