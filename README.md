@@ -1,3 +1,47 @@
+## v1.5.1.0 — June 26, 2026
+
+Command Center 1.5.1.0 Patch Notes
+----------------------------------------------
+New Features
+Added 7 new Gems to discover and upgrade.
+Added 2 new Gem Set Bonuses to expand build options and synergies.
+Added a new Gem Set Bonuses section to the Gem Codex for learning how set bonuses work and how to activate them.
+Added a new Gem Bonus Tracker to the Gem Menu to display currently active bonuses.
+Added new animated gem tiles for Max Rank Gems.
+Added several new animations throughout the application.
+Added a Chest Luck Bonus Tracker.
+Added a Chest Unlock Time Bonus Tracker.
+Added a new "Smaller Pets" option in the Appearance Settings.
+Pets now appear 20% larger by default for improved visibility and presence.
+----------------------------------------------
+New Feature
+Added Notebook Templates for faster note creation and improved organization.
+----------------------------------------------
+Reworked
+Reworked and rebalanced several existing Gems.
+----------------------------------------------
+Bug Fixes
+Fixed several bugs related to Gems and Gem interactions.
+General stability improvements and miscellaneous bug fixes.
+----------------------------------------------
+Secrets and Rewards
+Added a new Secret Pet.
+Added a new Achievement.
+----------------------------------------------
+Coming in Version 1.6.0.0
+
+The next major update introduces the Activity Tracker and To-Do List systems.
+
+These new features will integrate directly with:
+
+Time Tracking
+Reminders
+Notebook Features
+
+The goal is to continue evolving Command Center into the ultimate workflow machine.
+
+---
+
 ## v1.5.0.4 — June 24, 2026
 
 bug fixes and tweaks
