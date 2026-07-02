@@ -1,3 +1,60 @@
+## v1.6.0.0 — July 2, 2026
+
+CommandCenter v1.6.0.0 Release Notes
+===================================
+
+Release Date: July 2, 2026
+
+NEW FEATURES
+------------
+Operations Board
+- Added the new Operations Board system.
+- A full node graph environment for activity tracking, planning,
+  organization, and workflow automation.
+- Supports interconnected nodes for managing projects, tasks,
+  notes, reminders, timers, and operational workflows.
+- Includes a node menu on the left side for creating and managing
+  nodes within a board.
+- Includes an editor panel on the right side for configuring node
+  properties, settings, and behavior.
+- Supports multiple boards simultaneously through a tabbed interface,
+  allowing users to switch between separate workflows, projects,
+  and activity spaces.
+- Integrates directly with existing CommandCenter systems including
+  Notebook, Time Tracker, and Reminders.
+- Designed to serve as the central command and organization hub for
+  CommandCenter.
+
+Reminders Integration
+- The Reminders system has been moved into the Operations Board.
+- Reminders can now exist as nodes within workflows and planning
+  boards for improved organization and automation.
+
+Notebook Improvements
+- Added support for bulleted tabbing and nested bullet lists.
+
+- Improved window scaling method and added diagonal scaling support.
+
+GEMS & PROGRESSION
+------------------
+- Added 5 new Gem Loadout slots.
+- Gem Loadout slots can now be purchased using Gem Dust.
+
+
+- Updated Achievements system:
+  - Removed outdated achievements.
+  - Added new achievements to support updated systems and progression
+    paths.
+
+
+BUG FIXES
+---------
+- Fixed a memory leak issue that could cause increased memory
+  consumption during extended usage sessions.
+- Fixed multiple GEM-related issues.
+
+---
+
 ## v1.5.1.0 — June 26, 2026
 
 Command Center 1.5.1.0 Patch Notes
