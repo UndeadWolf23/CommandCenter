@@ -1,3 +1,10 @@
+## v1.6.1.0 — August 20, 2026
+
+Improvements to Clipboard manager - Now supports image previews including windows snipping tool clips
+Additional text editing functions added to Notebook such as Line Operations
+
+---
+
 ## v1.6.0.0 — July 2, 2026
 
 CommandCenter v1.6.0.0 Release Notes
