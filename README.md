@@ -1,3 +1,9 @@
+## v1.6.2.0 — August 31, 2026
+
+Simple tables and table formatting added to notebook
+
+---
+
 ## v1.6.1.0 — August 20, 2026
 
 Improvements to Clipboard manager - Now supports image previews including windows snipping tool clips
